@@ -58,7 +58,7 @@ h3 {
 .top-cloud {
   position: absolute;
   top: 30px;
-  right: 30%;
+  right: 10%;
 }
 
 .triskele {
@@ -68,7 +68,7 @@ h3 {
 
 .bottom-cloud {
   position: absolute;
-  left: 30%;
+  left: 10%;
 }
 
 .prof-img {
