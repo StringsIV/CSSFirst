@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+a {
+  color: #11999E;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+
+hr {
+  border-top-color: #EAF6F6;
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 8%;
+  margin: 80px auto;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.main-sub {
+  font-weight: normal;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 30%;
+}
+
+.triskele {
+  width: 20%;
+  padding-bottom: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+}
+
+.prof-img {
+  width: 15%;
+}
+
+.skill-fall {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-plane {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto;
+}
+
+.desc-text {
+  text-align: justify;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: justify;
+}
+
+.button-con {
+  margin: 50px auto;
+  background: linear-gradient(to bottom, #66bfbf 5%, #58e5e5 100%);
+  background-color: #66bfbf;
+  border-radius: 28px;
+  border: 1px solid #58e5e5;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #2f6627;
+}
+
+.button-con:hover {
+  margin: 50px auto;
+  background: linear-gradient(to bottom, #58e5e5 5%, #66bfbf 100%);
+  background-color: #58e5e5;
+}
+
+.button-con:active {
+  margin: 50px auto;
+  position: relative;
+  top: 1px;
+}
+
+.link-img {
+max-width: 60px;
+  margin: 50px auto;
+}
+
+.copyright {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 20px;
+  text-align: justify;
+  color: #EAF6F6
+}
